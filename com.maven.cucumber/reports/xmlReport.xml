@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="9" time="0">
+<testcase classname="Login Test of Orange HRM" name="Verify With Valid Credentials" time="0">
+<system-out><![CDATA[Given Launch the Application In Local Evnironment...........................skipped
+When Enterd the  "Admin" and "admin123456"..................................skipped
+And Click the Returns Key...................................................skipped
+Then User could see the Home page...........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Login Test of Orange HRM" name="Verify With Valid Credentials 2" time="0">
+<system-out><![CDATA[Given Launch the Application In Local Evnironment...........................skipped
+When Enterd the  "Admin" and "admin12345"...................................skipped
+And Click the Returns Key...................................................skipped
+Then User could see the Home page...........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Login Test of Orange HRM" name="Verify With Valid Credentials 3" time="0">
+<system-out><![CDATA[Given Launch the Application In Local Evnironment...........................skipped
+When Enterd the  "Admin" and "admin1234"....................................skipped
+And Click the Returns Key...................................................skipped
+Then User could see the Home page...........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Login Test of Orange HRM" name="Verify With Valid Credentials 4" time="0">
+<system-out><![CDATA[Given Launch the Application In Local Evnironment...........................skipped
+When Enterd the  "Admin" and "admin123".....................................skipped
+And Click the Returns Key...................................................skipped
+Then User could see the Home page...........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Login Test of Orange HRM" name="Verify With Valid Credentials" time="0">
+<system-out><![CDATA[Given Launch the Application In Test Evnironment............................skipped
+When Enter the  userName and Password.......................................skipped
+And Click the Login Button..................................................skipped
+Then User can see the Home page.............................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Login Test of Orange HRM" name="Verify With Valid Credentials" time="0">
+<system-out><![CDATA[Given Launch the Orange HRM Application.....................................skipped
+When Enter the below userName and Password..................................skipped
+And Enter the Login Button..................................................skipped
+Then User able to see the Home page.........................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="Learning Regular Expressions" name="Expression Scenario" time="0">
+<system-out><![CDATA[Given I have 10 rupees......................................................skipped
+Given I got 6.0 CGPA........................................................skipped
+Given Iam is Yunger than "Revathi" and elder than "guna"....................skipped
+]]></system-out>
+</testcase>
+<testcase classname="VerifyTheLoginPage" name="Verify With InValid Credentials" time="0">
+<system-out><![CDATA[Given user is on Login page.................................................skipped
+When user Entered the "Admin" and "admin123"................................skipped
+And Clicks On the Login Button..............................................skipped
+Then User Should navigate to Home Page......................................skipped
+]]></system-out>
+</testcase>
+<testcase classname="VerifyTheSearchBar" name="Open google website and search" time="0">
+<system-out><![CDATA[Given user is entering the google.co.in.....................................skipped
+When select the search box..................................................skipped
+When Enters the search term as "salem"......................................skipped
+And Enters the returns key..................................................skipped
+Then User able to see the search results....................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
